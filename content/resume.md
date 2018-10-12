@@ -4,11 +4,11 @@ author: 'Daniel S. Marshall'
 date: 2017-01-01
 ---
 
-# Daniel S. Marshall
+# Kim Boram
 ## Your Info {.heading .hide}
-Oakville, Ontario\
-905 849 0586\
-daniel.marshall@gmail.com\
+서울특별시 서대문구\
+010 2030 0527\
+boramyyo@gmail.com\
 
 ## Experience {.divider}
 
